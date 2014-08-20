@@ -1,4 +1,4 @@
-AudioEnforcer
+![icon](https://github.com/bertyhell/AudioEnforcer/raw/master/ontwerp/icon.png)AudioEnforcer
 =============
 
 Force your android device to a specific audio profile and enforce this every time the phone state changes
