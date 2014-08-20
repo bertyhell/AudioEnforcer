@@ -12,6 +12,7 @@ public class AudioEnforcerIntentReceiver extends BroadcastReceiver {
 
 	private static int clickCount = 2;
 	
+	
 
 	@Override
 	public void onReceive(Context context, Intent intent) {
@@ -21,6 +22,7 @@ public class AudioEnforcerIntentReceiver extends BroadcastReceiver {
 			updateWidgetPictureAndButtonListener(context);
 		}
 	}
+	
 
 	private void updateWidgetPictureAndButtonListener(Context context) {
 		RemoteViews remoteViews = new RemoteViews(context.getPackageName(), R.layout.widget_audioenforcer);
