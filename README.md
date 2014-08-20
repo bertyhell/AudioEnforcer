@@ -7,5 +7,6 @@ I've created this widget for HTC one phones. Some of them have a problem since t
 
 ![alt tag](https://github.com/bertyhell/AudioEnforcer/raw/master/screenshot.png)
 
-install using qr code:
-![alt tag](https://github.com/bertyhell/AudioEnforcer/raw/master/qr.jpg)
+[Download](https://github.com/bertyhell/AudioEnforcer/raw/master/AudioEnforcer.apk)
+
+![qr code](https://github.com/bertyhell/AudioEnforcer/raw/master/qr.jpg)
